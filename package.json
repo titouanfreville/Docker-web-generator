@@ -1,0 +1,27 @@
+{
+  "name": "docker-generator",
+  "version": "0.0.0",
+  "description": "Generate your docker file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titouanfreville/Docker-web-generator.git"
+  },
+  "keywords": [
+    "docker",
+    "generation",
+    "web-application"
+  ],
+  "author": "Titouan FREVILLE <titouanfreville@hotmail.fr; tfreville@nexway.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titouanfreville/Docker-web-generator/issues"
+  },
+  "homepage": "https://github.com/titouanfreville/Docker-web-generator#readme",
+  "dependencies": {
+    "bower": "^1.7.7"
+  }
+}
